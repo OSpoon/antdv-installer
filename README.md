@@ -42,4 +42,4 @@ npm run antdv-installer
 
 ## License
 
-[MIT](./LICENSE) License © 2024-PRESENT [PetitXin1994](https://github.com/PetitXin1994)
+[MIT](./LICENSE) License © 2024-PRESENT [OSpoon](https://github.com/OSpoon)

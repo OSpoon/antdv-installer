@@ -3,14 +3,14 @@
   "type": "module",
   "version": "0.0.0",
   "description": "一键将 Ant Design of Vue 组件库安装在使用 Vite 构建的 Vue-ts 项目",
-  "author": "PetitXin1994 zxin088@gmail.com",
+  "author": "OSpoon zxin088@gmail.com",
   "license": "MIT",
-  "homepage": "https://github.com/PetitXin1994/antdv-installer#readme",
+  "homepage": "https://github.com/OSpoon/antdv-installer#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PetitXin1994/antdv-installer.git"
+    "url": "git+https://github.com/OSpoon/antdv-installer.git"
   },
-  "bugs": "https://github.com/PetitXin1994/antdv-installer/issues",
+  "bugs": "https://github.com/OSpoon/antdv-installer/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
