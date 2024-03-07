@@ -1,6 +1,6 @@
 # antdv-installer
 
-一键将 Ant Design of Vue 组件库安装在使用 Vite 构建的 Vue-ts 项目
+一键安装 Ant Design of Vue 组件库到使用 Vite 构建的 Vue-ts 项目
 
 ## 使用方式
 
